@@ -1,0 +1,6 @@
+{
+    "require": {
+        "flightphp/core": "^3.12",
+        "j4mie/idiorm": "^1.5"
+    }
+}
